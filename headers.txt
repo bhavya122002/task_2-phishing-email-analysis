@@ -1,0 +1,9 @@
+## 📬 Email Header Analysis
+
+Header fields reveal:
+- SPF failure: email sent from unauthorized IP
+- No DKIM signature: email not verified
+- Mismatched Return Path and From address
+- IP address geolocation: Hosted in unknown server, not PayPal
+
+See full header in `email_header.txt`
