@@ -1,0 +1,15 @@
+From: PayPal Support <support@paypa1.com>
+Subject: Immediate Action Required – Account Locked!
+
+Dear Customer,
+
+We has detected suspicious activity on your PayPal account. For your security, we have temporarily suspended your account.
+
+Please verify your identity by clicking the link below:
+
+👉 https://paypa1-security.com/verify
+
+Failure to do so will result in permanent account suspension.
+
+Sincerely,
+PayPal Support
